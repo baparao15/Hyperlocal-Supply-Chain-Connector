@@ -2,10 +2,6 @@
 
 <div align="center">
 
-![Hyperlocal Supply Chain Connector](https://img.shields.io/badge/Hyperlocal-Supply%20Chain%20Connector-green?style=for-the-badge&logo=leaf)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
 **A revolutionary farm-to-restaurant ecosystem connecting farmers, restaurants, and transporters with AI-powered voice technology, real-time tracking, and automated payment settlements.**
 
 [🚀 Quick Start](#-quick-start) • [✨ Features](#-features) • [📖 Documentation](#-documentation) • [🛠 Tech Stack](#-tech-stack) • [🤝 Contributing](#-contributing)
@@ -555,5 +551,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [⭐ Star this project](https://github.com/your-username/hyperlocal-supply-chain-connector) • [🍴 Fork it](https://github.com/your-username/hyperlocal-supply-chain-connector/fork) • [📢 Share it](https://twitter.com/intent/tweet?text=Check%20out%20Hyperlocal%20Supply%20Chain%20Connector%20-%20Farm%20to%20Restaurant%20Ecosystem)
 
 </div>
-#   H y p e r l o c a l - S u p p l y - C h a i n - C o n n e c t o r  
- 
+#
